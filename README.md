@@ -42,7 +42,3 @@ This project is part of my **Elevvo Internship** where I built a **Machine Learn
   - RMSE: 0.322  
 
 > Polynomial Regression did not significantly improve performance.
-
----
-
-## 📁 Project Structure
